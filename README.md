@@ -1,5 +1,5 @@
 # Motion-sensor
-### Concept and Logic
+### HC-SR04 Version Concept and Logic
 
 Ultrasonic sensors can be used to get the distance to the immediate obstacle. Detecting a change in distance would mean an obstacle is in front of the target e.g a person moving in front of a wall. The change is used in the sensor above to turn on an LED and a buzzer to notify.
 

@@ -6,7 +6,7 @@
 
 long ult_duration;
 long ult_distance;
-// Set a measuring stick kind of
+// Set a reference distance
 int expc = 399;
 void setup() {
   pinMode(trigpin, OUTPUT);
